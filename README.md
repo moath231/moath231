@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a passionate Full Stack Developer from Jordan</h3>
 
-- 📫 How to reach me **contact@moathababneh.com**
+- 📫 How to reach me **ababnehmoath@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
